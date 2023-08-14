@@ -1,0 +1,6 @@
+transformers==4.29.2
+datasets==2.13.1
+optimum[onnxruntime]==1.11.1
+uvicorn==0.23.2
+fastapi==0.101.0
+scikit-learn==1.2.2
